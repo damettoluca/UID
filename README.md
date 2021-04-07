@@ -1,10 +1,6 @@
-# EIDs
+# UID
 
-EIDs is a project under development.
-
-## What does EIDs stands for?
-
-EIDs stands for European IDentification system.
+UID is a project under development.
 
 ## Why isn't there not much public info?
 
@@ -18,3 +14,7 @@ More info will be shared soon.
 ### Donators
 
 Our donators list is not currently available, most of the funds were donated by the Team.
+
+## Contact
+
+Email: business@damettoluca.com
